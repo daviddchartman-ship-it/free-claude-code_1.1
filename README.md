@@ -25,11 +25,11 @@ Free Claude Code routes Anthropic Messages API traffic from Claude Code to NVIDI
 ## Star History
 
 <div align="center">
-  <a href="https://star-history.com/#Alishahryar1/free-claude-code&Date">
+  <a href="https://star-history.com/#daviddchartman-ship-it/free-claude-code_1.1-code&Date">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date">
-      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Alishahryar1/free-claude-code&type=Date" width="700">
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=daviddchartman-ship-it/free-claude-code_1.1&type=Date&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=daviddchartman-ship-it/free-claude-code_1.1&type=Date">
+      <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=daviddchartman-ship-it/free-claude-code_1.1&type=Date" width="700">
     </picture>
   </a>
 </div>
@@ -83,7 +83,7 @@ See [NVIDIA NIM provider setup](#nvidia-nim-provider).
 ### 4. Install The Proxy
 
 ```bash
-uv tool install --force git+https://github.com/Alishahryar1/free-claude-code.git
+uv tool install --force git+https://github.com/daviddchartman-ship-it/free-claude-code_1.1.git
 ```
 
 Use the same command to update to the latest version.
